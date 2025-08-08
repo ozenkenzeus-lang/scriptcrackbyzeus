@@ -1,272 +1,199 @@
-LS09PT09PT09PT09PT09PT09PT09PT09PT09PQotLSBBdXRvIEF0dGFjayBCb3NzIEdVSQotLSBQ
-YXNzIG0ga2jzYTogV0t8V3Vrb25nCi0tPT09PT09PT09PT09PT09PT09PT09PT09PT0KCi0tIFNl
-cnZpY2VzCmxvY2FsIFBsYXllcnMgPSBnYW1lOkdldFNlcnZpY2UoIlBsYXllcnMiKQpsb2NhbCBU
-d2VlblNlcnZpY2UgPSBnYW1lOkdldFNlcnZpY2UoIlR3ZWVuU2VydmljZSIpCmxvY2FsIFJ1blNl
-cnZpY2UgPSBnYW1lOkdldFNlcnZpY2UoIlJ1blNlcnZpY2UiKQoKbG9jYWwgTG9jYWxQbGF5ZXIg
-PSBQbGF5ZXJzLkxvY2FsUGxheWVyCmxvY2FsIENoYXJhY3RlciA9IExvY2FsUGxheWVyLkNoYXJh
-Y3RlciBvciBMb2NhbFBsYXllci5DaGFyYWN0ZXJBZGRlZDpXYWl0KCkKbG9jYWwgSHVtYW5vaWQg
-PSBDaGFyYWN0ZXI6V2FpdEZvckNoaWxkKCJIdW1hbm9pZCIpCmxvY2FsIEh1bWFub2lkUm9vdFBh
-cnQgPSBDaGFyYWN0ZXI6V2FpdEZvckNoaWxkKCJIdW1hbm9pZFJvb3RQYXJ0IikKCi0tIEPgaSB0
-IG1jIG5oCmxvY2FsIHJhZGl1cyA9IDIwICAgICAgICAtLSBLaG9uZyBj4WNoIG5nIOFuaApsb2Nh
-bCBzcGVlZCA9IDIgICAgICAgICAgLS0gVGMgIOFuaApsb2NhbCBydW5uaW5nID0gZmFsc2UgICAg
-LS0gVHJuZyB0aOFpIGF1dG8gY2h5CmxvY2FsIGF1dG9BdHRhY2sgPSBmYWxzZSAtLSBUIG5nIOFu
-aApsb2NhbCBndWlWaXNpYmxlID0gZmFsc2UgLS0gSGluIHRoIEdVSQoKLS09PT09PT09PT09PT09
-PT09PT09PT09PT09PQotLSBHVUkgQ0jNTkgKLS09PT09PT09PT09PT09PT09PT09PT09PT09PQps
-b2NhbCBndWkgPSBJbnN0YW5jZS5uZXcoIlNjcmVlbkd1aSIsIExvY2FsUGxheWVyOldhaXRGb3JD
-aGlsZCgiUGxheWVyR3VpIikpCmd1aS5OYW1lID0gIk1lbnVfVFQiCmd1aS5FbmFibGVkID0gZmFs
-c2UKCi0tIEZyYW1lIGNo7W5oCmxvY2FsIGZyYW1lID0gSW5zdGFuY2UubmV3KCJGcmFtZSIsIGd1
-aSkKZnJhbWUuU2l6ZSA9IFVEaW0yLm5ldygwLCAzMDAsIDAsIDI3MCkKZnJhbWUuUG9zaXRpb24g
-PSBVRGltMi5uZXcoMC41LCAtMTUwLCAwLjUsIC0xMzUpCmZyYW1lLkJhY2tncm91bmRDb2xvcjMg
-PSBDb2xvcjMuZnJvbVJHQigzMCwgMzAsIDMwKQpmcmFtZS5BY3RpdmUgPSB0cnVlCmZyYW1lLkRy
-YWdnYWJsZSA9IHRydWUKCi0tIFRvZ2dsZSBhdXRvCmxvY2FsIHRvZ2dsZUJ0biA9IEluc3RhbmNl
-Lm5ldygiVGV4dEJ1dHRvbiIsIGZyYW1lKQp0b2dnbGVCdG4uU2l6ZSA9IFVEaW0yLm5ldygxLCAw
-LCAwLCA0MCkKdG9nZ2xlQnRuLlBvc2l0aW9uID0gVURpbTIubmV3KDAsIDAsIDAsIDApCnRvZ2ds
-ZUJ0bi5UZXh0ID0gIkJ0OiDhbmggQm9zcyIKdG9nZ2xlQnRuLlRleHRDb2xvcjMgPSBDb2xvcjMu
-bmV3KDEsIDEsIDEpCnRvZ2dsZUJ0bi5CYWNrZ3JvdW5kQ29sb3IzID0gQ29sb3IzLmZyb21SR0Io
-NDAsIDQwLCA0MCkKCi0tIElucHV0IGtob25nIGPhY2gKbG9jYWwgZGlzdExhYmVsID0gSW5zdGFu
-Y2UubmV3KCJUZXh0TGFiZWwiLCBmcmFtZSkKZGlzdExhYmVsLlRleHQgPSAiS2hvbmcgY-FjaDoi
-CmRpc3RMYWJlbC5TaXplID0gVURpbTIubmV3KDAsIDE1MCwgMCwgMzApCmRpc3RMYWJlbC5Qb3Np
-dGlvbiA9IFVEaW0yLm5ldygwLCAxMCwgMCwgNTApCmRpc3RMYWJlbC5UZXh0Q29sb3IzID0gQ29s
-b3IzLm5ldygxLCAxLCAxKQpkaXN0TGFiZWwuQmFja2dyb3VuZFRyYW5zcGFyZW5jeSA9IDEKCmxv
-Y2FsIGRpc3RJbnB1dCA9IEluc3RhbmNlLm5ldygiVGV4dEJveCIsIGZyYW1lKQpkaXN0SW5wdXQu
-U2l6ZSA9IFVEaW0yLm5ldygwLCAxMDAsIDAsIDMwKQpkaXN0SW5wdXQuUG9zaXRpb24gPSBVRGlt
-Mi5uZXcoMCwgMTYwLCAwLCA1MCkKZGlzdElucHV0LlRleHQgPSB0b3N0cmluZyhyYWRpdXMpCmRp
-c3RJbnB1dC5CYWNrZ3JvdW5kQ29sb3IzID0gQ29sb3IzLmZyb21SR0IoNjAsIDYwLCA2MCkKZGlz
-dElucHV0LlRleHRDb2xvcjMgPSBDb2xvcjMubmV3KDEsIDEsIDEpCgotLSBJbnB1dCB0YyAg4W5o
-CmxvY2FsIHNwZExhYmVsID0gSW5zdGFuY2UubmV3KCJUZXh0TGFiZWwiLCBmcmFtZSkKc3BkTGFi
-ZWwuVGV4dCA9ICJUYyAg4W5oOiIKc3BkTGFiZWwuU2l6ZSA9IFVEaW0yLm5ldygwLCAxNTAsIDAs
-IDMwKQpzcGRMYWJlbC5Qb3NpdGlvbiA9IFVEaW0yLm5ldygwLCAxMCwgMCwgOTApCnNwZExhYmVs
-LlRleHRDb2xvcjMgPSBDb2xvcjMubmV3KDEsIDEsIDEpCnNwZExhYmVsLkJhY2tncm91bmRUcmFu
-c3BhcmVuY3kgPSAxCgpsb2NhbCBzcGRJbnB1dCA9IEluc3RhbmNlLm5ldygiVGV4dEJveCIsIGZy
-YW1lKQpzcGRJbnB1dC5TaXplID0gVURpbTIubmV3KDAsIDEwMCwgMCwgMzApCnNwZElucHV0LlBv
-c2l0aW9uID0gVURpbTIubmV3KDAsIDE2MCwgMCwgOTApCnNwZElucHV0LlRleHQgPSB0b3N0cmlu
-ZyhzcGVlZCkKc3BkSW5wdXQuQmFja2dyb3VuZENvbG9yMyA9IENvbG9yMy5mcm9tUkdCKDYwLCA2
-MCwgNjApCnNwZElucHV0LlRleHRDb2xvcjMgPSBDb2xvcjMubmV3KDEsIDEsIDEpCgotLSBIaW4g
-dGggbeF1IGJvc3MKbG9jYWwgaHBMYWJlbCA9IEluc3RhbmNlLm5ldygiVGV4dExhYmVsIiwgZnJh
-bWUpCmhwTGFiZWwuU2l6ZSA9IFVEaW0yLm5ldygxLCAtMjAsIDAsIDMwKQpocExhYmVsLlBvc2l0
-aW9uID0gVURpbTIubmV3KDAsIDEwLCAwLCAxMzApCmhwTGFiZWwuVGV4dCA9ICJN4XUgQm9zcyBO
-Q1AyOiAuLi4iCmhwTGFiZWwuVGV4dENvbG9yMyA9IENvbG9yMy5uZXcoMSwgMCwgMCkKaHBMYWJl
-bC5CYWNrZ3JvdW5kVHJhbnNwYXJlbmN5ID0gMQpocExhYmVsLlRleHRTY2FsZWQgPSB0cnVlCgot
-LSBBdXRvIEF0dGFjayBCdXR0b24KbG9jYWwgYXV0b0J0biA9IEluc3RhbmNlLm5ldygiVGV4dEJ1
-dHRvbiIsIGZyYW1lKQphdXRvQnRuLlNpemUgPSBVRGltMi5uZXcoMSwgMCwgMCwgMzApCmF1dG9C
-dG4uUG9zaXRpb24gPSBVRGltMi5uZXcoMCwgMCwgMCwgMTcwKQphdXRvQnRuLlRleHQgPSAiQnQ6
-IEF1dG8g4W5oIgphdXRvQnRuLkJhY2tncm91bmRDb2xvcjMgPSBDb2xvcjMuZnJvbVJHQig1MCwg
-NTAsIDUwKQphdXRvQnRuLlRleHRDb2xvcjMgPSBDb2xvcjMubmV3KDEsIDEsIDEpCgotLSDUIG5o
-cCBwYXNzCmxvY2FsIHBhc3NHdWkgPSBJbnN0YW5jZS5uZXcoIlNjcmVlbkd1aSIsIExvY2FsUGxh
-eWVyOldhaXRGb3JDaGlsZCgiUGxheWVyR3VpIikpCnBhc3NHdWkuTmFtZSA9ICJQYXNzQ2hlY2si
-Cgpsb2NhbCBwYXNzRnJhbWUgPSBJbnN0YW5jZS5uZXcoIkZyYW1lIiwgcGFzc0d1aSkKcGFzc0Zy
-YW1lLlNpemUgPSBVRGltMi5uZXcoMCwgMjUwLCAwLCAxMzApCnBhc3NGcmFtZS5Qb3NpdGlvbiA9
-IFVEaW0yLm5ldygwLjUsIC0xMjUsIDAuNSwgLTY1KQpwYXNzRnJhbWUuQmFja2dyb3VuZENvbG9y
-MyA9IENvbG9yMy5mcm9tUkdCKDIwLCAyMCwgMjApCgpsb2NhbCB0aXRsZSA9IEluc3RhbmNlLm5l
-dygiVGV4dExhYmVsIiwgcGFzc0ZyYW1lKQp0aXRsZS5TaXplID0gVURpbTIubmV3KDEsIDAsIDAs
-IDMwKQp0aXRsZS5Qb3NpdGlvbiA9IFVEaW0yLm5ldygwLCAwLCAwLCA1KQp0aXRsZS5UZXh0ID0g
-Ik5ocCBNdCBLaHUiCnRpdGxlLlRleHRDb2xvcjMgPSBDb2xvcjMubmV3KDEsIDEsIDEpCnRpdGxl
-LkJhY2tncm91bmRUcmFuc3BhcmVuY3kgPSAxCnRpdGxlLlRleHRTY2FsZWQgPSB0cnVlCgpsb2Nh
-bCBwYXNzSW5wdXQgPSBJbnN0YW5jZS5uZXcoIlRleHRCb3giLCBwYXNzRnJhbWUpCnBhc3NJbnB1
-dC5TaXplID0gVURpbTIubmV3KDAuOSwgMCwgMCwgMzApCnBhc3NJbnB1dC5Qb3NpdGlvbiA9IFVE
-aW0yLm5ldygwLjA1LCAwLCAwLCA0NSkKcGFzc0lucHV0LlBsYWNlaG9sZGVyVGV4dCA9ICIiCnBh
-c3NJbnB1dC5CYWNrZ3JvdW5kQ29sb3IzID0gQ29sb3IzLmZyb21SR0IoNTAsIDUwLCA1MCkKcGFz
-c0lucHV0LlRleHRDb2xvcjMgPSBDb2xvcjMubmV3KDEsIDEsIDEpCgpsb2NhbCBjaGVja0J0biA9
-IEluc3RhbmNlLm5ldygiVGV4dEJ1dHRvbiIsIHBhc3NGcmFtZSkKY2hlY2tCdG4uU2l6ZSA9IFVE
-aW0yLm5ldygwLjUsIDAsIDAsIDMwKQpjaGVja0J0bi5Qb3NpdGlvbiA9IFVEaW0yLm5ldygwLjI1
-LCAwLCAwLCA4NSkKY2hlY2tCdG4uVGV4dCA9ICJY4WMgbmhuIgpjaGVja0J0bi5CYWNrZ3JvdW5k
-Q29sb3IzID0gQ29sb3IzLmZyb21SR0IoNzAsIDcwLCA3MCkKY2hlY2tCdG4uVGV4dENvbG9yMyA9
-IENvbG9yMy5uZXcoMSwgMSwgMSkKCi0tPT09PT09PT09PT09PT09PT09PT09PT09PT0KLS0gQ0hD
-IE5ORwotLT09PT09PT09PT09PT09PT09PT09PT09PT09CgotLSBU7G0gYm9zcyBnbiBuaHQKbG9j
-YWwgZnVuY3Rpb24gZ2V0VGFyZ2V0KCkKICAgIGZvciBfLCB2IGluIHBhaXJzKHdvcmtzcGFjZTpH
-ZXREZXNjZW5kYW50cygpKSBkbwogICAgICAgIGlmIHY6SXNBKCJNb2RlbCIpCiAgICAgICAgICAg
-YW5kIHY6RmluZEZpcnN0Q2hpbGQoIkh1bWFub2lkIikKICAgICAgICAgICBhbmQgdiB-PSBDaGFy
-YWN0ZXIKICAgICAgICAgICBhbmQgdjpGaW5kRmlyc3RDaGlsZCgiSHVtYW5vaWRSb290UGFydCIp
-CiAgICAgICAgICAgYW5kIHYuSHVtYW5vaWQuSGVhbHRoID4gMCB0aGVuCiAgICAgICAgICAgIHJl
-dHVybiB2CiAgICAgICAgZW5kCiAgICBlbmQKZW5kCgotLSDhbmgKbG9jYWwgZnVuY3Rpb24gYXR0
-YWNrKCkKICAgIGxvY2FsIHRvb2wgPSBDaGFyYWN0ZXI6RmluZEZpcnN0Q2hpbGRPZkNsYXNzKCJU
-b29sIikKICAgIGlmIHRvb2wgdGhlbgogICAgICAgIHRvb2w6QWN0aXZhdGUoKQogICAgZW5kCmVu
-ZAoKLS09PT09PT09PT09PT09PT09PT09PT09PT09PQotLSBTIEtJTgotLT09PT09PT09PT09PT09
-PT09PT09PT09PT09CgotLSBY4WMgbmhuIHBhc3MKY2hlY2tCdG4uTW91c2VCdXR0b24xQ2xpY2s6
-Q29ubmVjdChmdW5jdGlvbigpCiAgICBpZiBwYXNzSW5wdXQuVGV4dCA9PSAiV0t8V3Vrb25nIiB0
-aGVuCiAgICAgICAgZ3VpLkVuYWJsZWQgPSB0cnVlCiAgICAgICAgcGFzc0d1aTpEZXN0cm95KCkK
-ICAgIGVuZAplbmQpCgotLSBUb2dnbGUgYXV0byBydW4KdG9nZ2xlQnRuLk1vdXNlQnV0dG9uMUNs
-aWNrOkNvbm5lY3QoZnVuY3Rpb24oKQogICAgcnVubmluZyA9IG5vdCBydW5uaW5nCiAgICB0b2dn
-bGVCdG4uVGV4dCA9IHJ1bm5pbmcgYW5kICJUdDog4W5oIEJvc3MiIG9yICJCdDog4W5oIEJvc3Mi
-CmVuZCkKCi0tIFRoYXkgaSBraG9uZyBj4WNoCmRpc3RJbnB1dC5Gb2N1c0xvc3Q6Q29ubmVjdChm
-dW5jdGlvbigpCiAgICByYWRpdXMgPSB0b251bWJlcihkaXN0SW5wdXQuVGV4dCkgb3IgcmFkaXVz
-CmVuZCkKCi0tIFRoYXkgaSB0YyAKc3BkSW5wdXQuRm9jdXNMb3N0OkNvbm5lY3QoZnVuY3Rpb24o
-KQogICAgc3BlZWQgPSB0b251bWJlcihzcGRJbnB1dC5UZXh0KSBvciBzcGVlZAplbmQpCgotLSBU
-b2dnbGUgYXV0byBhdHRhY2sKYXV0b0J0bi5Nb3VzZUJ1dHRvbjFDbGljazpDb25uZWN0KGZ1bmN0
-aW9uKCkKICAgIGF1dG9BdHRhY2sgPSBub3QgYXV0b0F0dGFjawogICAgYXV0b0J0bi5UZXh0ID0g
-YXV0b0F0dGFjayBhbmQgIlR0OiBBdXRvIOFuaCIgb3IgIkJ0OiBBdXRvIOFuaCIKZW5kKQoKLS0g
-TG9vcCBhdXRvClJ1blNlcnZpY2UuSGVhcnRiZWF0OkNvbm5lY3QoZnVuY3Rpb24oKQogICAgaWYg
-cnVubmluZyB0aGVuCiAgICAgICAgbG9jYWwgdGFyZ2V0ID0gZ2V0VGFyZ2V0KCkKICAgICAgICBp
-ZiB0YXJnZXQgdGhlbgogICAgICAgICAgICBsb2NhbCBhbmdsZSA9IHRpY2soKSAqIHNwZWVkCiAg
-ICAgICAgICAgIGxvY2FsIG9mZnNldCA9IFZlY3RvcjMubmV3KG1hdGguY29zKGFuZ2xlKSAqIHJh
-ZGl1cywgMCwgbWF0aC5zaW4oYW5nbGUpICogcmFkaXVzKQogICAgICAgICAgICBsb2NhbCBnb2Fs
-UG9zID0gdGFyZ2V0Lkh1bWFub2lkUm9vdFBhcnQuUG9zaXRpb24gKyBvZmZzZXQKCiAgICAgICAg
-ICAgIFR3ZWVuU2VydmljZTpDcmVhdGUoSHVtYW5vaWRSb290UGFydCwgVHdlZW5JbmZvLm5ldygw
-LjEpLCB7Q0ZyYW1lID0gQ0ZyYW1lLm5ldyhnb2FsUG9zLCB0YXJnZXQuSHVtYW5vaWRSb290UGFy
-dC5Qb3NpdGlvbil9KTpQbGF5KCkKICAgICAgICAgICAgSHVtYW5vaWQuQXV0b1JvdGF0ZSA9IGZh
-bHNlCgogICAgICAgICAgICBpZiBhdXRvQXR0YWNrIHRoZW4gYXR0YWNrKCkgZW5kCiAgICAgICAg
-ICAgIGhwTGFiZWwuVGV4dCA9ICJN4XUgbWMgdGnqdTogIiAuLiBtYXRoLmZsb29yKHRhcmdldC5I
-dW1hbm9pZC5IZWFsdGgpCiAgICAgICAgZW5kCiAgICBlbmQKZW5kKQo
-LS0gVG9nZ2xlIGF1dG8
-bG9jYWwgdG9nZ2xlQnRuID0gSW5zdGFuY2UubmV3KCJUZXh0QnV0dG9uIiwgZnJhbWUp
-dG9nZ2xlQnRuLlNpemUgPSBVRGltMi5uZXcoMSwgMCwgMCwgNDAp
-dG9nZ2xlQnRuLlBvc2l0aW9uID0gVURpbTIubmV3KDAsIDAsIDAsIDAp
-dG9nZ2xlQnRuLlRleHQgPSAiQnQ6IOFuaCBCb3NzIg
-dG9nZ2xlQnRuLlRleHRDb2xvcjMgPSBDb2xvcjMubmV3KDEsIDEsIDEp
-dG9nZ2xlQnRuLkJhY2tncm91bmRDb2xvcjMgPSBDb2xvcjMuZnJvbVJHQig0MCwgNDAsIDQwKQ
+--==========================
+-- Auto Attack Boss GUI
+-- Pass mở khóa: WK|Wukong
+--==========================
 
-LS0gSW5wdXQga2hvbmcgY-FjaA
-bG9jYWwgZGlzdExhYmVsID0gSW5zdGFuY2UubmV3KCJUZXh0TGFiZWwiLCBmcmFtZSk
-ZGlzdExhYmVsLlRleHQgPSAiS2hvbmcgY-FjaDoi
-ZGlzdExhYmVsLlNpemUgPSBVRGltMi5uZXcoMCwgMTUwLCAwLCAzMCk
-ZGlzdExhYmVsLlBvc2l0aW9uID0gVURpbTIubmV3KDAsIDEwLCAwLCA1MCk
-ZGlzdExhYmVsLlRleHRDb2xvcjMgPSBDb2xvcjMubmV3KDEsIDEsIDEp
-ZGlzdExhYmVsLkJhY2tncm91bmRUcmFuc3BhcmVuY3kgPSAx
+-- Services
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
 
-bG9jYWwgZGlzdElucHV0ID0gSW5zdGFuY2UubmV3KCJUZXh0Qm94IiwgZnJhbWUp
-ZGlzdElucHV0LlNpemUgPSBVRGltMi5uZXcoMCwgMTAwLCAwLCAzMCk
-ZGlzdElucHV0LlBvc2l0aW9uID0gVURpbTIubmV3KDAsIDE2MCwgMCwgNTAp
-ZGlzdElucHV0LlRleHQgPSB0b3N0cmluZyhyYWRpdXMp
-ZGlzdElucHV0LkJhY2tncm91bmRDb2xvcjMgPSBDb2xvcjMuZnJvbVJHQig2MCwgNjAsIDYwKQ
-ZGlzdElucHV0LlRleHRDb2xvcjMgPSBDb2xvcjMubmV3KDEsIDEsIDEp
+local LocalPlayer = Players.LocalPlayer
+local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+local Humanoid = Character:WaitForChild("Humanoid")
+local HumanoidRootPart = Character:WaitForChild("HumanoidRootPart")
 
-LS0gSW5wdXQgdGMgIOFuaA
-bG9jYWwgc3BkTGFiZWwgPSBJbnN0YW5jZS5uZXcoIlRleHRMYWJlbCIsIGZyYW1lKQ
-c3BkTGFiZWwuVGV4dCA9ICJUYyAg4W5oOiI
-c3BkTGFiZWwuU2l6ZSA9IFVEaW0yLm5ldygwLCAxNTAsIDAsIDMwKQ
-c3BkTGFiZWwuUG9zaXRpb24gPSBVRGltMi5uZXcoMCwgMTAsIDAsIDkwKQ
-c3BkTGFiZWwuVGV4dENvbG9yMyA9IENvbG9yMy5uZXcoMSwgMSwgMSk
-c3BkTGFiZWwuQmFja2dyb3VuZFRyYW5zcGFyZW5jeSA9IDE
+-- Cài đặt mặc định
+local radius = 20        -- Khoảng cách đứng đánh
+local speed = 2          -- Tốc độ đánh
+local running = false    -- Trạng thái auto chạy
+local autoAttack = false -- Tự động đánh
+local guiVisible = false -- Hiển thị GUI
 
-bG9jYWwgc3BkSW5wdXQgPSBJbnN0YW5jZS5uZXcoIlRleHRCb3giLCBmcmFtZSk
-c3BkSW5wdXQuU2l6ZSA9IFVEaW0yLm5ldygwLCAxMDAsIDAsIDMwKQ
-c3BkSW5wdXQuUG9zaXRpb24gPSBVRGltMi5uZXcoMCwgMTYwLCAwLCA5MCk
-c3BkSW5wdXQuVGV4dCA9IHRvc3RyaW5nKHNwZWVkKQ
-c3BkSW5wdXQuQmFja2dyb3VuZENvbG9yMyA9IENvbG9yMy5mcm9tUkdCKDYwLCA2MCwgNjAp
-c3BkSW5wdXQuVGV4dENvbG9yMyA9IENvbG9yMy5uZXcoMSwgMSwgMSk
+--==========================
+-- GUI CHÍNH
+--==========================
+local gui = Instance.new("ScreenGui", LocalPlayer:WaitForChild("PlayerGui"))
+gui.Name = "Menu_TT"
+gui.Enabled = false
 
-LS0gSGluIHRoIG3hdSBib3Nz
-bG9jYWwgaHBMYWJlbCA9IEluc3RhbmNlLm5ldygiVGV4dExhYmVsIiwgZnJhbWUp
-aHBMYWJlbC5TaXplID0gVURpbTIubmV3KDEsIC0yMCwgMCwgMzAp
-aHBMYWJlbC5Qb3NpdGlvbiA9IFVEaW0yLm5ldygwLCAxMCwgMCwgMTMwKQ
-aHBMYWJlbC5UZXh0ID0gIk3hdSBCb3NzIE5DUDI6IC4uLiI
-aHBMYWJlbC5UZXh0Q29sb3IzID0gQ29sb3IzLm5ldygxLCAwLCAwKQ
-aHBMYWJlbC5CYWNrZ3JvdW5kVHJhbnNwYXJlbmN5ID0gMQ
-aHBMYWJlbC5UZXh0U2NhbGVkID0gdHJ1ZQ
+-- Frame chính
+local frame = Instance.new("Frame", gui)
+frame.Size = UDim2.new(0, 300, 0, 270)
+frame.Position = UDim2.new(0.5, -150, 0.5, -135)
+frame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+frame.Active = true
+frame.Draggable = true
 
-LS0gQXV0byBBdHRhY2sgQnV0dG9u
-bG9jYWwgYXV0b0J0biA9IEluc3RhbmNlLm5ldygiVGV4dEJ1dHRvbiIsIGZyYW1lKQ
-YXV0b0J0bi5TaXplID0gVURpbTIubmV3KDEsIDAsIDAsIDMwKQ
-YXV0b0J0bi5Qb3NpdGlvbiA9IFVEaW0yLm5ldygwLCAwLCAwLCAxNzAp
-YXV0b0J0bi5UZXh0ID0gIkJ0OiBBdXRvIOFuaCI
-YXV0b0J0bi5CYWNrZ3JvdW5kQ29sb3IzID0gQ29sb3IzLmZyb21SR0IoNTAsIDUwLCA1MCk
-YXV0b0J0bi5UZXh0Q29sb3IzID0gQ29sb3IzLm5ldygxLCAxLCAxKQ
+-- Toggle auto
+local toggleBtn = Instance.new("TextButton", frame)
+toggleBtn.Size = UDim2.new(1, 0, 0, 40)
+toggleBtn.Position = UDim2.new(0, 0, 0, 0)
+toggleBtn.Text = "Bật: Đánh Boss"
+toggleBtn.TextColor3 = Color3.new(1, 1, 1)
+toggleBtn.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
 
-LS0g1CBuaHAgcGFzcw
-bG9jYWwgcGFzc0d1aSA9IEluc3RhbmNlLm5ldygiU2NyZWVuR3VpIiwgTG9jYWxQbGF5ZXI6V2FpdEZvckNoaWxkKCJQbGF5ZXJHdWkiKSk
-cGFzc0d1aS5OYW1lID0gIlBhc3NDaGVjayI
+-- Input khoảng cách
+local distLabel = Instance.new("TextLabel", frame)
+distLabel.Text = "Khoảng cách:"
+distLabel.Size = UDim2.new(0, 150, 0, 30)
+distLabel.Position = UDim2.new(0, 10, 0, 50)
+distLabel.TextColor3 = Color3.new(1, 1, 1)
+distLabel.BackgroundTransparency = 1
 
-bG9jYWwgcGFzc0ZyYW1lID0gSW5zdGFuY2UubmV3KCJGcmFtZSIsIHBhc3NHdWkp
-cGFzc0ZyYW1lLlNpemUgPSBVRGltMi5uZXcoMCwgMjUwLCAwLCAxMzAp
-cGFzc0ZyYW1lLlBvc2l0aW9uID0gVURpbTIubmV3KDAuNSwgLTEyNSwgMC41LCAtNjUp
-cGFzc0ZyYW1lLkJhY2tncm91bmRDb2xvcjMgPSBDb2xvcjMuZnJvbVJHQigyMCwgMjAsIDIwKQ
+local distInput = Instance.new("TextBox", frame)
+distInput.Size = UDim2.new(0, 100, 0, 30)
+distInput.Position = UDim2.new(0, 160, 0, 50)
+distInput.Text = tostring(radius)
+distInput.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+distInput.TextColor3 = Color3.new(1, 1, 1)
 
-bG9jYWwgdGl0bGUgPSBJbnN0YW5jZS5uZXcoIlRleHRMYWJlbCIsIHBhc3NGcmFtZSk
-dGl0bGUuU2l6ZSA9IFVEaW0yLm5ldygxLCAwLCAwLCAzMCk
-dGl0bGUuUG9zaXRpb24gPSBVRGltMi5uZXcoMCwgMCwgMCwgNSk
-dGl0bGUuVGV4dCA9ICJOaHAgTXQgS2h1Ig
-dGl0bGUuVGV4dENvbG9yMyA9IENvbG9yMy5uZXcoMSwgMSwgMSk
-dGl0bGUuQmFja2dyb3VuZFRyYW5zcGFyZW5jeSA9IDE
-dGl0bGUuVGV4dFNjYWxlZCA9IHRydWU
+-- Input tốc độ đánh
+local spdLabel = Instance.new("TextLabel", frame)
+spdLabel.Text = "Tốc độ đánh:"
+spdLabel.Size = UDim2.new(0, 150, 0, 30)
+spdLabel.Position = UDim2.new(0, 10, 0, 90)
+spdLabel.TextColor3 = Color3.new(1, 1, 1)
+spdLabel.BackgroundTransparency = 1
 
-bG9jYWwgcGFzc0lucHV0ID0gSW5zdGFuY2UubmV3KCJUZXh0Qm94IiwgcGFzc0ZyYW1lKQ
-cGFzc0lucHV0LlNpemUgPSBVRGltMi5uZXcoMC45LCAwLCAwLCAzMCk
-cGFzc0lucHV0LlBvc2l0aW9uID0gVURpbTIubmV3KDAuMDUsIDAsIDAsIDQ1KQ
-cGFzc0lucHV0LlBsYWNlaG9sZGVyVGV4dCA9ICKVlZWVlZWVlSI
-cGFzc0lucHV0LkJhY2tncm91bmRDb2xvcjMgPSBDb2xvcjMuZnJvbVJHQig1MCwgNTAsIDUwKQ
-cGFzc0lucHV0LlRleHRDb2xvcjMgPSBDb2xvcjMubmV3KDEsIDEsIDEp
+local spdInput = Instance.new("TextBox", frame)
+spdInput.Size = UDim2.new(0, 100, 0, 30)
+spdInput.Position = UDim2.new(0, 160, 0, 90)
+spdInput.Text = tostring(speed)
+spdInput.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+spdInput.TextColor3 = Color3.new(1, 1, 1)
 
-bG9jYWwgY2hlY2tCdG4gPSBJbnN0YW5jZS5uZXcoIlRleHRCdXR0b24iLCBwYXNzRnJhbWUp
-Y2hlY2tCdG4uU2l6ZSA9IFVEaW0yLm5ldygwLjUsIDAsIDAsIDMwKQ
-Y2hlY2tCdG4uUG9zaXRpb24gPSBVRGltMi5uZXcoMC4yNSwgMCwgMCwgODUp
-Y2hlY2tCdG4uVGV4dCA9ICJY4WMgbmhuIg
-Y2hlY2tCdG4uQmFja2dyb3VuZENvbG9yMyA9IENvbG9yMy5mcm9tUkdCKDcwLCA3MCwgNzAp
-Y2hlY2tCdG4uVGV4dENvbG9yMyA9IENvbG9yMy5uZXcoMSwgMSwgMSk
+-- Hiển thị máu boss
+local hpLabel = Instance.new("TextLabel", frame)
+hpLabel.Size = UDim2.new(1, -20, 0, 30)
+hpLabel.Position = UDim2.new(0, 10, 0, 130)
+hpLabel.Text = "Máu Boss NCP2: ..."
+hpLabel.TextColor3 = Color3.new(1, 0, 0)
+hpLabel.BackgroundTransparency = 1
+hpLabel.TextScaled = true
 
-LS09PT09PT09PT09PT09PT09PT09PT09PT09PQ
-LS0gQ0hDIE5ORw
-LS09PT09PT09PT09PT09PT09PT09PT09PT09PQ
+-- Auto Attack Button
+local autoBtn = Instance.new("TextButton", frame)
+autoBtn.Size = UDim2.new(1, 0, 0, 30)
+autoBtn.Position = UDim2.new(0, 0, 0, 170)
+autoBtn.Text = "Bật: Auto Đánh"
+autoBtn.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+autoBtn.TextColor3 = Color3.new(1, 1, 1)
 
-LS0gVOxtIGJvc3MgZ24gbmh0
-bG9jYWwgZnVuY3Rpb24gZ2V0VGFyZ2V0KCk
-ICAgIGZvciBfLCB2IGluIHBhaXJzKHdvcmtzcGFjZTpHZXREZXNjZW5kYW50cygpKSBkbw
-ICAgICAgICBpZiB2OklzQSgiTW9kZWwiKQ
-ICAgICAgICAgICBhbmQgdjpGaW5kRmlyc3RDaGlsZCgiSHVtYW5vaWQiKQ
-ICAgICAgICAgICBhbmQgdiB-PSBDaGFyYWN0ZXI
-ICAgICAgICAgICBhbmQgdjpGaW5kRmlyc3RDaGlsZCgiSHVtYW5vaWRSb290UGFydCIp
-ICAgICAgICAgICBhbmQgdi5IdW1hbm9pZC5IZWFsdGggPiAwIHRoZW4
-ICAgICAgICAgICAgcmV0dXJuIHY
-ICAgICAgICBlbmQ
-ICAgIGVuZA
-ZW5k
+-- Ô nhập pass
+local passGui = Instance.new("ScreenGui", LocalPlayer:WaitForChild("PlayerGui"))
+passGui.Name = "PassCheck"
 
-LS0g4W5o
-bG9jYWwgZnVuY3Rpb24gYXR0YWNrKCk
-ICAgIGxvY2FsIHRvb2wgPSBDaGFyYWN0ZXI6RmluZEZpcnN0Q2hpbGRPZkNsYXNzKCJUb29sIik
-ICAgIGlmIHRvb2wgdGhlbg
-ICAgICAgICB0b29sOkFjdGl2YXRlKCk
-ICAgIGVuZA
-ZW5k
+local passFrame = Instance.new("Frame", passGui)
+passFrame.Size = UDim2.new(0, 250, 0, 130)
+passFrame.Position = UDim2.new(0.5, -125, 0.5, -65)
+passFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
 
-LS09PT09PT09PT09PT09PT09PT09PT09PT09PQ
-LS0gUyBLSU4
-LS09PT09PT09PT09PT09PT09PT09PT09PT09PQ
+local title = Instance.new("TextLabel", passFrame)
+title.Size = UDim2.new(1, 0, 0, 30)
+title.Position = UDim2.new(0, 0, 0, 5)
+title.Text = "Nhập Mật Khẩu"
+title.TextColor3 = Color3.new(1, 1, 1)
+title.BackgroundTransparency = 1
+title.TextScaled = true
 
-LS0gWOFjIG5obiBwYXNz
-Y2hlY2tCdG4uTW91c2VCdXR0b24xQ2xpY2s6Q29ubmVjdChmdW5jdGlvbigp
-ICAgIGlmIHBhc3NJbnB1dC5UZXh0ID09ICJXS3xXdWtvbmciIHRoZW4
-ICAgICAgICBndWkuRW5hYmxlZCA9IHRydWU
-ICAgICAgICBwYXNzR3VpOkRlc3Ryb3koKQ
-ICAgIGVuZA
-ZW5kKQ
+local passInput = Instance.new("TextBox", passFrame)
+passInput.Size = UDim2.new(0.9, 0, 0, 30)
+passInput.Position = UDim2.new(0.05, 0, 0, 45)
+passInput.PlaceholderText = "••••••••"
+passInput.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+passInput.TextColor3 = Color3.new(1, 1, 1)
 
-LS0gVG9nZ2xlIGF1dG8gcnVu
-dG9nZ2xlQnRuLk1vdXNlQnV0dG9uMUNsaWNrOkNvbm5lY3QoZnVuY3Rpb24oKQ
-ICAgIHJ1bm5pbmcgPSBub3QgcnVubmluZw
-ICAgIHRvZ2dsZUJ0bi5UZXh0ID0gcnVubmluZyBhbmQgIlR0OiDhbmggQm9zcyIgb3IgIkJ0OiDhbmggQm9zcyI
-ZW5kKQ
+local checkBtn = Instance.new("TextButton", passFrame)
+checkBtn.Size = UDim2.new(0.5, 0, 0, 30)
+checkBtn.Position = UDim2.new(0.25, 0, 0, 85)
+checkBtn.Text = "Xác nhận"
+checkBtn.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+checkBtn.TextColor3 = Color3.new(1, 1, 1)
 
-LS0gVGhheSBpIGtob25nIGPhY2g
-ZGlzdElucHV0LkZvY3VzTG9zdDpDb25uZWN0KGZ1bmN0aW9uKCk
-ICAgIHJhZGl1cyA9IHRvbnVtYmVyKGRpc3RJbnB1dC5UZXh0KSBvciByYWRpdXM
-ZW5kKQ
+--==========================
+-- CHỨC NĂNG
+--==========================
 
-LS0gVGhheSBpIHRjIA
-c3BkSW5wdXQuRm9jdXNMb3N0OkNvbm5lY3QoZnVuY3Rpb24oKQ
-ICAgIHNwZWVkID0gdG9udW1iZXIoc3BkSW5wdXQuVGV4dCkgb3Igc3BlZWQ
-ZW5kKQ
+-- Tìm boss gần nhất
+local function getTarget()
+    for _, v in pairs(workspace:GetDescendants()) do
+        if v:IsA("Model")
+           and v:FindFirstChild("Humanoid")
+           and v ~= Character
+           and v:FindFirstChild("HumanoidRootPart")
+           and v.Humanoid.Health > 0 then
+            return v
+        end
+    end
+end
 
-LS0gVG9nZ2xlIGF1dG8gYXR0YWNr
-YXV0b0J0bi5Nb3VzZUJ1dHRvbjFDbGljazpDb25uZWN0KGZ1bmN0aW9uKCk
-ICAgIGF1dG9BdHRhY2sgPSBub3QgYXV0b0F0dGFjaw
-ICAgIGF1dG9CdG4uVGV4dCA9IGF1dG9BdHRhY2sgYW5kICJUdDogQXV0byDhbmgiIG9yICJCdDogQXV0byDhbmgi
-ZW5kKQ
+-- Đánh
+local function attack()
+    local tool = Character:FindFirstChildOfClass("Tool")
+    if tool then
+        tool:Activate()
+    end
+end
 
-LS0gTG9vcCBhdXRv
-UnVuU2VydmljZS5IZWFydGJlYXQ6Q29ubmVjdChmdW5jdGlvbigp
-ICAgIGlmIHJ1bm5pbmcgdGhlbg
-ICAgICAgICBsb2NhbCB0YXJnZXQgPSBnZXRUYXJnZXQoKQ
-ICAgICAgICBpZiB0YXJnZXQgdGhlbg
-ICAgICAgICAgICAgbG9jYWwgYW5nbGUgPSB0aWNrKCkgKiBzcGVlZA
-ICAgICAgICAgICAgbG9jYWwgb2Zmc2V0ID0gVmVjdG9yMy5uZXcobWF0aC5jb3MoYW5nbGUpICogcmFkaXVzLCAwLCBtYXRoLnNpbihhbmdsZSkgKiByYWRpdXMp
-ICAgICAgICAgICAgbG9jYWwgZ29hbFBvcyA9IHRhcmdldC5IdW1hbm9pZFJvb3RQYXJ0LlBvc2l0aW9uICsgb2Zmc2V0
+--==========================
+-- SỰ KIỆN
+--==========================
 
-ICAgICAgICAgICAgVHdlZW5TZXJ2aWNlOkNyZWF0ZShIdW1hbm9pZFJvb3RQYXJ0LCBUd2VlbkluZm8ubmV3KDAuMSksIHtDRnJhbWUgPSBDRnJhbWUubmV3KGdvYWxQb3MsIHRhcmdldC5IdW1hbm9pZFJvb3RQYXJ0LlBvc2l0aW9uKX0pOlBsYXkoKQ
-ICAgICAgICAgICAgSHVtYW5vaWQuQXV0b1JvdGF0ZSA9IGZhbHNl
+-- Xác nhận pass
+checkBtn.MouseButton1Click:Connect(function()
+    if passInput.Text == "WK|Wukong" then
+        gui.Enabled = true
+        passGui:Destroy()
+    end
+end)
 
-ICAgICAgICAgICAgaWYgYXV0b0F0dGFjayB0aGVuIGF0dGFjaygpIGVuZA
-ICAgICAgICAgICAgaHBMYWJlbC5UZXh0ID0gIk3hdSBtYyB0aep1OiAiIC4uIG1hdGguZmxvb3IodGFyZ2V0Lkh1bWFub2lkLkhlYWx0aCk
-ICAgICAgICBlbmQ
-ICAgIGVuZA
-ZW5kKQ
+-- Toggle auto run
+toggleBtn.MouseButton1Click:Connect(function()
+    running = not running
+    toggleBtn.Text = running and "Tắt: Đánh Boss" or "Bật: Đánh Boss"
+end)
 
+-- Thay đổi khoảng cách
+distInput.FocusLost:Connect(function()
+    radius = tonumber(distInput.Text) or radius
+end)
+
+-- Thay đổi tốc độ
+spdInput.FocusLost:Connect(function()
+    speed = tonumber(spdInput.Text) or speed
+end)
+
+-- Toggle auto attack
+autoBtn.MouseButton1Click:Connect(function()
+    autoAttack = not autoAttack
+    autoBtn.Text = autoAttack and "Tắt: Auto Đánh" or "Bật: Auto Đánh"
+end)
+
+-- Loop auto
+RunService.Heartbeat:Connect(function()
+    if running then
+        local target = getTarget()
+        if target then
+            local angle = tick() * speed
+            local offset = Vector3.new(math.cos(angle) * radius, 0, math.sin(angle) * radius)
+            local goalPos = target.HumanoidRootPart.Position + offset
+
+            TweenService:Create(HumanoidRootPart, TweenInfo.new(0.1), {CFrame = CFrame.new(goalPos, target.HumanoidRootPart.Position)}):Play()
+            Humanoid.AutoRotate = false
+
+            if autoAttack then attack() end
+            hpLabel.Text = "Máu mục tiêu: " .. math.floor(target.Humanoid.Health)
+        end
+    end
+end)
