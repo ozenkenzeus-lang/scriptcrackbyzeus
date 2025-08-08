@@ -1,6 +1,6 @@
 --==========================
 -- Auto Attack Boss GUI
--- Pass mở khóa: WK|Wukong
+-- Pass mở khóa: keyfree24h|ngquocbao
 --==========================
 
 -- Services
@@ -152,7 +152,7 @@ end
 
 -- Xác nhận pass
 checkBtn.MouseButton1Click:Connect(function()
-    if passInput.Text == "WK|Wukong" then
+    if passInput.Text == "keyfree24h|ngquocbao" then
         gui.Enabled = true
         passGui:Destroy()
     end
@@ -197,3 +197,4 @@ RunService.Heartbeat:Connect(function()
         end
     end
 end)
+
